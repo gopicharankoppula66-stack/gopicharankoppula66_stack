@@ -160,9 +160,9 @@ Become a Software Engineer and photo editor
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gopicharankoppula66-stack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 # 📚 Currently Learning
 
 - FastAPI
