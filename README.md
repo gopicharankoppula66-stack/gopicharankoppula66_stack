@@ -153,7 +153,7 @@ Become a Software Engineer and photo editor
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopicharankoppula66-stack&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
