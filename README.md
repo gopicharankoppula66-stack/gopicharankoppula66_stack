@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Koppula Gopi Charan
+# HI 👋, I'M CHARAN
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Python+%7C+JavaScript+Developer;Full+Stack+Web+Developer;FastAPI+%7C+Node.js+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG" />
 
