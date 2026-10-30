@@ -6,9 +6,9 @@
 
 # HI 👋, I'M CHARAN
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Python+%7C+JavaScript+Developer;Full+Stack+Web+Developer;FastAPI+%7C+Node.js+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Python+%7C+JavaScript+Developer;+Web+Developer;FastAPI+%7C+Node.js+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-### 🚀 Future Software Engineer | Full Stack Developer | Problem Solver
+### 🚀 Future Software Engineer | Frontend Developer | Problem Solver
 
 <img src="https://komarev.com/ghpvc/?username=gopicharankoppula66&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
@@ -27,8 +27,8 @@
 🌱 Currently learning
 
 - FastAPI
+- node.js
 - React
-- Node.js
 - MongoDB
 - System Design
 
